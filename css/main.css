@@ -3,7 +3,7 @@ html * {
 }
 
 header {
-    margin: 80px 0;
+    margin: 120px 0;
 }
 
 body {
@@ -30,7 +30,7 @@ main {
     grid-column: 2 / 3;
     color: black;
     text-align: center;
-    font-size: 40pt;
+    font-size: 47pt;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 5vh
 
@@ -41,8 +41,8 @@ main {
     background-color: #A9A9A9; 
     color: white;
     border-radius: 8px;
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
     font-size: 34pt;
 
 }
@@ -51,10 +51,10 @@ main {
     grid-area: txt;
     border: 3.5px solid #A9A9A9;
     border-radius: 8px;
-    height: 100px;
-    width: 160px;
-    margin: 0 20px;
-    font-size: 34pt;
+    height: 75px;
+    width: 130px;
+    margin: 0 20px 0 12px;
+    font-size: 32pt;
     text-align: center;
 }
 
@@ -63,8 +63,8 @@ main {
     background-color: #A9A9A9; 
     color: white;
     border-radius: 8px;
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
     font-size: 34pt;
 }
 
